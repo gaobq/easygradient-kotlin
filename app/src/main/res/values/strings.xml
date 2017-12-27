@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">easygradient-kotlin</string>
+    <string name="hello_kotlin">hello kotlin</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="gradientLayout">
+        <attr name="startX" format="integer"/>
+        <attr name="startY" format="integer"/>
+        <attr name="endX" format="integer"/>
+        <attr name="endY" format="integer"/>
+        <!--centerX ,centerY are specific attrs for RadialGradient & SweepGradient-->
+        <attr name="centerX" format="integer"/>
+        <attr name="centerY" format="integer"/>
+        <!--specific attr for RadialGradient-->
+        <attr name="radius" format="integer"/>
+        <attr name="gradientColors" format="reference"/>
+        <attr name="gradientPositions" format="reference"/>
+        <!--titleMode has no effect for SweepGradient-->
+        <attr name="tileMode" format="string"/>
+        <!--gradient type (linear,radial,sweep) default is linear-->
+        <attr name="gradientType" format="string"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="google_gradient_colors">
+        <item>@color/google_c1</item>
+        <item>@color/google_c2</item>
+        <item>@color/google_c3</item>
+        <item>@color/google_c4</item>
+    </integer-array>
+
+    <string-array name="google_gradient_percents">
+        <item>0</item>
+        <item>0.33</item>
+        <item>0.67</item>
+        <item>1</item>
+    </string-array>
+</resources>
