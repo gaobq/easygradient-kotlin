@@ -1,0 +1,21 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+/app/src/test
+/easy-gradient/src/test
+
+**/**/build/
+**/**/bin/
+**/**/gen/
+**/**/proguard/
+**/**/obj/
+
+#ignore IntelliJ IDEA file
+.idea/
+*.iml
+out/
+
