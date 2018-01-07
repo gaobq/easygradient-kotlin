@@ -1,5 +1,7 @@
 # easygradient-kotlin
 
+[![](https://jitpack.io/v/gaobq/easygradient-kotlin.svg)](https://jitpack.io/#gaobq/easygradient-kotlin)
+
 this is a gradient-util write by kotlin(you can also use in you android project which write by java)，
 wrap Android's LinearGradient,SweepGradient,RadialGradient.
 
